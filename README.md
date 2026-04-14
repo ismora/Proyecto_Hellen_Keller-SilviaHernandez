@@ -122,7 +122,7 @@ node index.js
 │   │   ├── usuario-editar.js
 │   │   ├── usuario-listar.js
 │   │   └── usuario-registrar.js
-│   ├── dashboard-admin.html
+│   ├── index.html(dashboard-admin.html)
 │   ├── dashboard-docente.html
 │   ├── login.html
 │   ├── pei-avance.html

@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", () => {
       sessionStorage.setItem("usuario", JSON.stringify(user));
 
       if (user.rol === "Administrador") {
-        window.location.href = "dashboard-admin.html";
+        window.location.href = "index.html";
       } 
       else if (user.rol === "Docente/Terapeuta") {
         window.location.href = "dashboard-docente.html";
